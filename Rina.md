@@ -1,11 +1,11 @@
 Name:Catherine Daniel <br>
 Email:Danielcatherine65@gmai.com <br>
 Slack username: Cathy <br>
-Tracks:
-backend
-frontend <br>
+Tracks:<br>
+-backend
+-frontend <br>
 
-courses:
+courses:<br>
 -html
 -css
 -javascript
@@ -13,4 +13,4 @@ courses:
 -node Just
 -python
 -c#
--php
+-php<br>
