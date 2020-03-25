@@ -2,15 +2,15 @@ Name:Catherine Daniel <br>
 Email:Danielcatherine65@Gmail.com <br>
 Slack username: Cathy <br>
 Tracks:<br>
--backend
+-backend<br>
 -frontend <br>
 
 courses:<br>
 -html<br>
--css
--javascript
--Go
--node Just
--python
--c#
+-css <br>
+-javascript <br>
+-Go <br>
+-node js <br>
+-python <br>
+-c# <br>
 -php<br>
