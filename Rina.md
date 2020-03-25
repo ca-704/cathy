@@ -6,7 +6,7 @@ backend
 frontend <br>
 
 courses:
--html
+"html"
 -css
 -javascript
 -Go
