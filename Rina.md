@@ -1,5 +1,5 @@
 Name:Catherine Daniel <br>
-Email:Danielcatherine65@gmai.com <br>
+Email:Danielcatherine65@Gmail.com <br>
 Slack username: Cathy <br>
 Tracks:<br>
 -backend
