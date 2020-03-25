@@ -1,2 +1,0 @@
-# cathy
-Another respository
